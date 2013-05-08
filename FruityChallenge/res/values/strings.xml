@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">FruityChallenge</string>
+    <string name="ScoreboardText">Score</string>
+    <string name="TimerText">Time</string>
+    <string name="act1_title">Select Dificulty</string>
+    <string name="act1_levelselect">Level (Numbers Only)</string>
+    <string name="act1_btnstart">Start</string>
+    <string name="act1_errorstring1">Must Have Numbers Only!!!!</string>
+    <string name="act1_errorstring2">Cannot get Score!!! (Error)</string>
+    <string name="act2_scorpresentation">Your final score is:</string>
+    <string name="act2_exitbutton">Salir</string>
+</resources>

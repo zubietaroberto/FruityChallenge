@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ScoreboardText">Puntaje</string>
+    <string name="TimerText">Tiempo</string>
+    <string name="act1_title">Selección de Dificultad</string>
+    <string name="act1_btnstart">Comenzar</string>
+    <string name="act1_levelselect">Nivel (Solo Números)</string>
+    <string name="act1_errorstring1">Solo puede tener Números!!!!!</string>
+    <string name="act1_errorstring2">No se puede recuperar Puntaje!!! (Error)</string>
+    <string name="act2_scorpresentation">Tu puntaje final es:</string>
+    <string name="act2_exitbutton">Salir</string>
+</resources>
